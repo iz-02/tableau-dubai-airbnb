@@ -1,15 +1,15 @@
 # 📊 Dubai Airbnb Dashboard (Tableau)
 
-Analyzed Airbnb listings in Dubai to uncover trends in pricing, property types, and booking features.
+Analyzed Airbnb listings in Dubai to see trends in pricing, property types, and booking features.
 
 ## 💡 Key Findings
-- Studios are the cheapest; price increases linearly with number of bedrooms  
-- Instantly bookable apartments are consistently slightly more expensive  
-- Pet-friendly listings are slightly more expensive than non-pet-friendly ones  
+- Studios are the cheapest, price increases linearly with number of bedrooms  
+- Instantly bookable apartments are consistently a little more expensive  
+- Pet friendly listings are a little more expensive than non petfriendly ones  
 - Airbnb rating surprisingly does not affect price 
 
 ## 🔑 Highlights
-- Data import, cleaning & removing unnecessary columns  
+- Data import, cleaning & removing unnecessary columns
 - Interactive visualizations with filters and highlights
   
 
