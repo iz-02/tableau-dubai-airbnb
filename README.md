@@ -2,7 +2,7 @@
 
 Analyzed Airbnb listings in Dubai to see trends in pricing, property types, and booking features.
 
-## 💡 Key Findings
+## 💡 Conclusions
 - Studios are the cheapest, price increases linearly with number of bedrooms  
 - Instantly bookable apartments are consistently a little more expensive  
 - Pet friendly listings are a little more expensive than non petfriendly ones  
